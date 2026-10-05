@@ -277,28 +277,6 @@ Potential enhancements include:
 6. Automated alerts when churn rises in a segment
 7. Replacing synthetic data with real operational data
 
-## Project Structure
-
-```
-Customer-Churn-Analytics/
-│
-├── data/
-│   ├── telco_churn_raw.xlsx
-│   └── telco_churn_clean.xlsx
-│
-├── python/
-│   └── churn_analysis.py
-│
-├── powerbi/
-│   └── Customer_Churn_Dashboard.pbix
-│
-├── screenshots/
-│   └── customer_churn_dashboard.png
-│
-├── README.md
-└── requirements.txt
-```
-
 ## Conclusion
 
 The Customer Churn & Retention Analytics project demonstrates an end-to-end approach to transforming messy customer data into actionable business insights.
